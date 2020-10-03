@@ -5,4 +5,5 @@
 - Stuff I like: Anime, Manga, Music and Video Production.
 - Contact: [Telegram](https://t.me/dank_as_fuck)
 
-[![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
