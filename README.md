@@ -6,4 +6,4 @@
 - Contact: [Telegram](https://t.me/dank_as_fuck)
 
 
-![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
+![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&include_all_commits=true&theme=tokyonight)
