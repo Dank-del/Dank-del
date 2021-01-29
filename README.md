@@ -1,4 +1,4 @@
-![Dank's card name](https://cardivo.vercel.app/api?name=%E3%83%80%E3%83%B3%E3%82%AF%E3%83%87%E3%83%AB%20//%20%E5%8D%83%E9%B6%B4&description=I%20like%20to%20learn%20bout%20stuff.&image=https://static.zerochan.net/Mizuhara.Chizuru.full.3018903.jpg&backgroundColor=%23ecf0f1&github=Dank-del)
+![colorless](https://telegra.ph/file/e844c0fd73203977cc1d7.jpg)
 
 # Hi there, I'm Dank-del <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del)                                                                                                                  
