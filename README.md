@@ -8,3 +8,5 @@
 ![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)
 
 ![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&include_all_commits=true&theme=tokyonight)
+## 🎵 **Last.FM**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/airi_sakura)
