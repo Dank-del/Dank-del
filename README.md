@@ -3,7 +3,7 @@
 # Hi there, I'm Dank-del <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del)                                                                                                                  
 - Some of my works include [EsseX](https://github.com/Dank-del/EsseX), [Chizuru](https://github.com/Dank-del/Chizuru) ...
-- I’m currently learning [Python](https://python.org)
+- I’m currently learning [Python](https://python.org) and [C#](https://github.com/dotnet/csharplang)
 - Stuff I like: Anime, Manga, Music and Video Production.
 
 ![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dank_as_fuck)
