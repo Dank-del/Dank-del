@@ -12,8 +12,8 @@
 ## 🎯 **Dank's Github Stats**
 ![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-## 💻 **Languages I use**
+## 💻 **Languages I fuck around with.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=My%20Top%20Used%20Languages&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
 ## 🎵 **Crap I listen to, on Spotify.**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
