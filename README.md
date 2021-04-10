@@ -10,7 +10,7 @@
 ![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)
 
 ## 🎯 **Dank's Github Stats**
-![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
 
 ## 💻 **Languages I fuck around with.**
 
