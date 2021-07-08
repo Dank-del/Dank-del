@@ -8,6 +8,10 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dank_as_fuck)
 ![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)
+![Twitter Badge](https://img.shields.io/twitter/follow/TheDankDel?style=social)
+![Reddit Badge](https://img.shields.io/reddit/user-karma/combined/dank_as_fuck_?style=social)
+![discord](https://discord-md-badge.vercel.app/api/shield/506536929152466945?style=social) 
+
 
 ## 🎯 **Dank's Github Stats**
 ![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
@@ -17,3 +21,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
 ## 🎵 **Crap I listen to, on Spotify.**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
+
