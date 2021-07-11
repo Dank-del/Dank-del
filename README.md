@@ -1,6 +1,6 @@
-![colorless](https://telegra.ph/file/e844c0fd73203977cc1d7.jpg)
+![image](https://user-images.githubusercontent.com/63096193/125182844-29f20800-e22f-11eb-8dc9-b0f2d29647bb.png)
 
-# **Hi there, I'm Dank-del (*´ー｀*), and this is a profile readme.**
+# **Hi there, I'm Dank-del (*´ー｀*), and this is my profile readme.**
 [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del)                                                                                       
 
 # **"Who are you?"**
