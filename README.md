@@ -26,7 +26,7 @@ Maybe I'll play with a bit of PHP
 I wanna write software to entertain myself and help people. \
 Tho I don't think I achived the latter goal till now.
 
-> Fun stuff aside, I'm studying for college and stuff. /ᐠ.ꞈ.ᐟ\
+> Fun stuff aside, I just gave entrance examination for college, kinda scared how the results would be.
 
 # **"Eww, I see a weeb profile."**
 Can't help it, it's the best way to hide my face on this account
@@ -38,7 +38,7 @@ My interests are quite, weird. They're scattered all over the place. \
 I've been fascinated by music and have studied it since the age of 6, I've performed on stage and on air but yeah now I've been away from that. I specialize in key instruments. \
 Another thing that interests me is Media Production, aka, working with audio, video and broadcasting media.
 
-> I just like art in general. also feeds the reason of me being obsessed with Japansese drawings (⋟ ﹏ ⋞)
+> I just like art in general. also feeds the reason of me being obsessed with Japanese drawings (⋟ ﹏ ⋞)
 
 
 # **"I wanna talk to you, how can I reach you?"**
