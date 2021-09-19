@@ -64,7 +64,8 @@ Just don't be a creep, thanks ● ﹏ ●
 There you go. Tho these don't cover private contributions. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20play%20around%20with%20:3&theme=tokyonight&hide_border=true)
-
+### **Wakatime Stats** (new)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sayan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## **"I wanna stalk your spotify."**
 Um sure. 
 
