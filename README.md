@@ -52,8 +52,8 @@ Just don't be a creep, thanks ● ﹏ ●
 [![discord](https://discord-md-badge.vercel.app/api/shield/506536929152466945?style=social)](https://discordapp.com/users/506536929152466945)
 
 
-#### **Some github statistics thingy (Only gets the public contributions tho.)**
-![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
+#### **Some github statistics thingy**
+![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 ## **What languages did you use till now?**
