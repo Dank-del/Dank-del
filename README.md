@@ -54,15 +54,7 @@ Just don't be a creep, thanks ● ﹏ ●
 [![Reddit Badge](https://img.shields.io/reddit/user-karma/combined/dank_as_fuck_?style=social)](https://www.reddit.com/user/dank_as_fuck_/)
 [![discord](https://discord-md-badge.vercel.app/api/shield/506536929152466945?style=social)](https://discordapp.com/users/506536929152466945)
 
-#### **Some github statistics thingy**
-
-![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-## **What languages did you use till now?**
-
-There you go. Tho these don't cover private contributions.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20play%20around%20with%20:3&theme=tokyonight&hide_border=true)
+## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
