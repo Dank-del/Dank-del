@@ -63,7 +63,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 🏆 1,097 Contributions in the Year 2021
  > 
-> 📦 74.3 kB Used in GitHub's Storage 
+> 📦 74.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
