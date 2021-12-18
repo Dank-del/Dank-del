@@ -63,7 +63,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,669 Contributions in the Year 2021
+> 🏆 1,673 Contributions in the Year 2021
  > 
 > 📦 73.0 kB Used in GitHub's Storage 
  > 
