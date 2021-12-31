@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
@@ -88,8 +88,8 @@ Just don't be a creep, thanks ● ﹏ ●
 Monday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
 Tuesday      156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
 Wednesday    124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Thursday     153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Friday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Thursday     152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
 Saturday     149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
 Sunday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
 
