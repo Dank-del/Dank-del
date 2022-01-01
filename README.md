@@ -63,7 +63,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 6 Contributions in the Year 2022
  > 
 > 📦 73.6 kB Used in GitHub's Storage 
  > 
