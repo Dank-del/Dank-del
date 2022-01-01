@@ -65,7 +65,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 🏆 7 Contributions in the Year 2022
  > 
-> 📦 73.7 kB Used in GitHub's Storage 
+> 📦 73.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
