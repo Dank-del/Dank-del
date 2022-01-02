@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-864%20Thousand%20lines%20of%20code-blue)
 
@@ -78,8 +78,8 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
 🌆 Daytime    317 commits    ███████░░░░░░░░░░░░░░░░░░   30.9% 
-🌃 Evening    386 commits    █████████░░░░░░░░░░░░░░░░   37.62% 
-🌙 Night      242 commits    ██████░░░░░░░░░░░░░░░░░░░   23.59%
+🌃 Evening    385 commits    █████████░░░░░░░░░░░░░░░░   37.52% 
+🌙 Night      243 commits    ██████░░░░░░░░░░░░░░░░░░░   23.68%
 
 ```
 📅 **I'm Most Productive on Monday** 
