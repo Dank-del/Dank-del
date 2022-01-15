@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-870%20Thousand%20lines%20of%20code-blue)
 
@@ -65,7 +65,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 🏆 56 Contributions in the Year 2022
  > 
-> 📦 73.4 kB Used in GitHub's Storage 
+> 📦 73.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
