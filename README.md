@@ -57,15 +57,15 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-868%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 81 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
-> 📦 73.7 kB Used in GitHub's Storage 
+> 📦 73.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,8 +86,8 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Tuesday      150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Wednesday    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Tuesday      151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
+Wednesday    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
 Thursday     168 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
 Friday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
 Saturday     149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
