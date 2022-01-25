@@ -57,13 +57,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-864%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 132 Contributions in the Year 2022
+> 🏆 136 Contributions in the Year 2022
  > 
 > 📦 74.2 kB Used in GitHub's Storage 
  > 
@@ -77,21 +77,21 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 🌞 Morning    70 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-🌆 Daytime    322 commits    ████████░░░░░░░░░░░░░░░░░   32.59% 
-🌃 Evening    374 commits    █████████░░░░░░░░░░░░░░░░   37.85% 
-🌙 Night      222 commits    █████░░░░░░░░░░░░░░░░░░░░   22.47%
+🌆 Daytime    326 commits    ████████░░░░░░░░░░░░░░░░░   33.0% 
+🌃 Evening    371 commits    █████████░░░░░░░░░░░░░░░░   37.55% 
+🌙 Night      221 commits    █████░░░░░░░░░░░░░░░░░░░░   22.37%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
-Tuesday      156 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Tuesday      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
 Wednesday    109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
 Thursday     164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
 Friday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
 Saturday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-Sunday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.97%
+Sunday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66%
 
 ```
 
@@ -135,7 +135,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 09:52:20 UTC
+ Last Updated on 25/01/2022 11:02:54 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
