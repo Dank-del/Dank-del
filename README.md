@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-864%20Thousand%20lines%20of%20code-blue)
 
@@ -76,8 +76,8 @@ Just don't be a creep, thanks ● ﹏ ●
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
-🌆 Daytime    321 commits    ████████░░░░░░░░░░░░░░░░░   32.42% 
+🌞 Morning    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+🌆 Daytime    319 commits    ████████░░░░░░░░░░░░░░░░░   32.22% 
 🌃 Evening    370 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
 🌙 Night      230 commits    █████░░░░░░░░░░░░░░░░░░░░   23.23%
 
@@ -135,7 +135,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 06:05:40 UTC
+ Last Updated on 27/01/2022 07:22:13 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
