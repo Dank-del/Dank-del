@@ -57,15 +57,15 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 174 Contributions in the Year 2022
+> 🏆 179 Contributions in the Year 2022
  > 
-> 📦 74.1 kB Used in GitHub's Storage 
+> 📦 74.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,9 +77,9 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 🌞 Morning    69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-🌆 Daytime    319 commits    ████████░░░░░░░░░░░░░░░░░   31.8% 
-🌃 Evening    383 commits    █████████░░░░░░░░░░░░░░░░   38.19% 
-🌙 Night      232 commits    █████░░░░░░░░░░░░░░░░░░░░   23.13%
+🌆 Daytime    317 commits    ████████░░░░░░░░░░░░░░░░░   31.61% 
+🌃 Evening    387 commits    █████████░░░░░░░░░░░░░░░░   38.58% 
+🌙 Night      230 commits    █████░░░░░░░░░░░░░░░░░░░░   22.93%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -88,10 +88,10 @@ Just don't be a creep, thanks ● ﹏ ●
 Monday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
 Tuesday      158 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
 Wednesday    110 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Thursday     171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Thursday     170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
 Friday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Saturday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Sunday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
+Saturday     128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Sunday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
 
 ```
 
@@ -134,7 +134,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 18:01:50 UTC
+ Last Updated on 29/01/2022 19:15:20 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
