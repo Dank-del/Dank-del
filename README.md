@@ -134,7 +134,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 15:36:00 UTC
+ Last Updated on 23/02/2022 18:07:09 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
