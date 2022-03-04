@@ -57,15 +57,15 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 301 Contributions in the Year 2022
+> 🏆 303 Contributions in the Year 2022
  > 
-> 📦 75.5 kB Used in GitHub's Storage 
+> 📦 76.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -136,7 +136,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 13:43:41 UTC
+ Last Updated on 04/03/2022 14:53:18 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
