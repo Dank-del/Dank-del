@@ -59,7 +59,7 @@ Just don't be a creep, thanks ● ﹏ ●
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-639%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -135,7 +135,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 13:16:59 UTC
+ Last Updated on 07/03/2022 13:37:18 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
