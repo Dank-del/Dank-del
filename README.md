@@ -57,13 +57,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 306 Contributions in the Year 2022
+> 🏆 309 Contributions in the Year 2022
  > 
 > 📦 77.7 kB Used in GitHub's Storage 
  > 
@@ -76,21 +76,21 @@ Just don't be a creep, thanks ● ﹏ ●
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+🌞 Morning    68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
 🌆 Daytime    280 commits    ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌃 Evening    409 commits    ██████████░░░░░░░░░░░░░░░   41.73% 
+🌃 Evening    407 commits    ██████████░░░░░░░░░░░░░░░   41.53% 
 🌙 Night      225 commits    █████░░░░░░░░░░░░░░░░░░░░   22.96%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Tuesday      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+Monday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+Tuesday      161 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
 Wednesday    108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
 Thursday     164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
 Friday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Saturday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
 Sunday       134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
 
 ```
@@ -136,7 +136,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 04:50:01 UTC
+ Last Updated on 08/03/2022 06:43:58 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
