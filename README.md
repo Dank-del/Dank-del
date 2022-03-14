@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
 
@@ -121,11 +121,11 @@ Windows                  14 hrs 29 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   43 repos            ████████████░░░░░░░░░░░░░   48.31% 
-Go                       26 repos            ███████░░░░░░░░░░░░░░░░░░   29.21% 
-C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Python                   43 repos            ████████████░░░░░░░░░░░░░   47.78% 
+Go                       26 repos            ███████░░░░░░░░░░░░░░░░░░   28.89% 
+C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
 
@@ -135,7 +135,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/03/2022 18:06:35 UTC
+ Last Updated on 14/03/2022 20:18:18 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
