@@ -59,11 +59,11 @@ Just don't be a creep, thanks ● ﹏ ●
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 323 Contributions in the Year 2022
+> 🏆 324 Contributions in the Year 2022
  > 
 > 📦 78.0 kB Used in GitHub's Storage 
  > 
@@ -125,7 +125,7 @@ Mac                      12 mins             ░░░░░░░░░░░�
 Python                   43 repos            ████████████░░░░░░░░░░░░░   47.78% 
 Go                       26 repos            ███████░░░░░░░░░░░░░░░░░░   28.89% 
 C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
 HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
@@ -136,7 +136,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 09:30:28 UTC
+ Last Updated on 18/03/2022 10:48:31 UTC
 <!--END_SECTION:waka-->
 
 ## **Can I stalk your spotify?**
