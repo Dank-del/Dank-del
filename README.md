@@ -6,14 +6,13 @@
 
 ## **Who are you?**
 
-Well, nothing special, just an eighteen year old person interested in computers and art. \
+Well, no-one special, just an eighteen year old person interested in computers and art. \
 Name's **Sayan**, `Sayan Biswas` to be exact. Call me Sayan if you wanna. \
 I'm not a professional in any way whatsoever, I do things to have fun and cause its interesting.
 
 ## **Where are you from? Where do you belong?**
 
-Guess it.
-> Please don't dox me, thanks >~<
+I'm from Kolkata, a city in the Indian state called West Bengal.
 
 ## **What are you doing currently? What are you learning?**
 
@@ -27,10 +26,10 @@ The languages currently are:
 
 Maybe I'll play with a bit of PHP
 
-I wanna write software to entertain myself and help people. \
+I wanna write software to entertain myself with challenges and help people. \
 Tho I don't think I achived the latter goal till now.
 
-## **Eww, I see a weeb profile.**
+<!--## **Eww, I see a weeb profile.**
 
 Can't help it, it's the best way to hide my face on this account
 > Why do people hate weebs .-.
@@ -41,7 +40,7 @@ My interests are quite, weird. They're scattered all over the place. \
 I've been fascinated by music and have studied it since the age of 6, I've performed on stage and on air but yeah now I've been away from that. I specialize in key instruments. \
 Another thing that interests me is Media Production, aka, working with audio, video and broadcasting media.
 
-> I just like art in general. also feeds the reason of me being obsessed with Japanese drawings (⋟ ﹏ ⋞)
+> I just like art in general. also feeds the reason of me being obsessed with Japanese drawings (⋟ ﹏ ⋞)-->
 
 ## **I wanna talk to you, how can I reach you?**
 
@@ -139,8 +138,8 @@ HTML                     2 repos             ░░░░░░░░░░░�
  Last Updated on 06/04/2022 05:02:49 UTC
 <!--END_SECTION:waka-->
 
-## **Can I stalk your spotify?**
+<!--## **Can I stalk your spotify?**
 
 Um sure.
 
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)-->
