@@ -62,7 +62,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 🏆 147 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 79.1 kB Used in GitHub's Storage 
  > 
@@ -133,7 +133,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 09:56:57 UTC
+ Last Updated on 19/05/2022 10:43:17 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
