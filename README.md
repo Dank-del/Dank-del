@@ -60,19 +60,18 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 193 Contributions in the Year 2022
+```text
+🏆 193 contributions in 2022
+
+📦 79.6 kB used in GitHub's storage 
+
+📜 69 Public Repositories 
+
+🔑 26 Private Repositories  
  > 
-> 📦 79.6 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 69 Public Repositories 
- > 
-> 🔑 26 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
@@ -81,7 +80,7 @@ Just don't be a creep, thanks ● ﹏ ●
 🌙 Night      221 commits    ██████░░░░░░░░░░░░░░░░░░░   24.75%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm most productive on Thursday** 
 
 ```text
 Monday       123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
@@ -95,7 +94,7 @@ Sunday       123 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -112,7 +111,7 @@ Windows                  4 mins              ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   44 repos            ████████████░░░░░░░░░░░░░   48.35% 
@@ -129,7 +128,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:08:32 UTC
+ Last Updated on 12/06/2022 07:53:29 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
