@@ -68,7 +68,7 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 72 Public Repositories 
  > 
 > 🔑 26 Private Repositories  
  > 
@@ -133,7 +133,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 09:17:25 UTC
+ Last Updated on 30/06/2022 09:56:52 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
