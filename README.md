@@ -58,19 +58,19 @@ Just don't be a creep, thanks ● ﹏ ●
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-761%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-757%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 222 Contributions in the Year 2022
  > 
-> 📦 81.2 kB Used in GitHub's Storage 
+> 📦 78.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 29 Private Repositories  
+> 🔑 36 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -120,11 +120,11 @@ Linux                    3 mins              █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   47 repos            ████████████░░░░░░░░░░░░░   49.47% 
-Go                       27 repos            ███████░░░░░░░░░░░░░░░░░░   28.42% 
-C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+Python                   45 repos            ████████████░░░░░░░░░░░░░   48.39% 
+Go                       27 repos            ███████░░░░░░░░░░░░░░░░░░   29.03% 
+C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
 ```
 
@@ -134,7 +134,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2022 09:06:17 UTC
+ Last Updated on 16/07/2022 09:55:14 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
