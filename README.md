@@ -135,6 +135,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 
 
  Last Updated on 03/08/2022 04:10:04 UTC
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dank-del&theme=dracula&" alt="DebobrataPal"" /></p>
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
