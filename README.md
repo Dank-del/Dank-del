@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-903%20Thousand%20lines%20of%20code-blue)
 
@@ -133,7 +133,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 03:56:41 UTC
+ Last Updated on 01/09/2022 05:09:22 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
