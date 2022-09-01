@@ -133,7 +133,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 14:16:10 UTC
+ Last Updated on 01/09/2022 14:30:07 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
