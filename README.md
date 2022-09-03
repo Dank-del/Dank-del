@@ -62,15 +62,15 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 🏆 327 Contributions in the Year 2022
+> 🏆 326 Contributions in the Year 2022
  > 
 > 📦 82.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
+> 🔑 35 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -134,7 +134,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 15:06:55 UTC
+ Last Updated on 03/09/2022 15:38:12 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
