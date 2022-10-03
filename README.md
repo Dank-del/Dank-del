@@ -48,7 +48,7 @@ There ya go, but yea I might be slow to respond. ＼(￣O￣) \
 Just don't be a creep, thanks ● ﹏ ●
 
 [![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dank_as_fuck)](https://t.me/dank_as_fuck)
-[![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)](mailto:chizuru@kanojo.tk)
+[![Gmail Badge](https://img.shields.io/badge/-sayan@asia.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayan@asia.com)](mailto:sayan@asia.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/TheDankDel?style=social)](https://twitter.com/TheDankDel)
 [![Reddit Badge](https://img.shields.io/reddit/user-karma/combined/dank_as_fuck_?style=social)](https://www.reddit.com/user/dank_as_fuck_/)
 [![discord](https://discord-md-badge.vercel.app/api/shield/506536929152466945?style=social)](https://discordapp.com/users/506536929152466945)
