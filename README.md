@@ -56,13 +56,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 376 Contributions in the Year 2022
+> 🏆 378 Contributions in the Year 2022
  > 
 > 📦 84.7 kB Used in GitHub's Storage 
  > 
@@ -70,7 +70,7 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 37 Private Repositories  
+> 🔑 38 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -119,11 +119,11 @@ Linux                    11 mins             █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   35 repos            █████████░░░░░░░░░░░░░░░░   36.46% 
+Python                   34 repos            ████████░░░░░░░░░░░░░░░░░   35.42% 
 Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   29.17% 
 C#                       7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+JavaScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
 
 ```
 
@@ -133,7 +133,7 @@ JavaScript               5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2022 12:56:15 UTC
+ Last Updated on 15/10/2022 13:36:12 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
