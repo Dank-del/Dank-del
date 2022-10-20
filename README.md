@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737%20Thousand%20lines%20of%20code-blue)
 
@@ -68,9 +68,9 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 39 Private Repositories  
+> 🔑 38 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -135,7 +135,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2022 12:05:45 UTC
+ Last Updated on 20/10/2022 12:55:48 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
