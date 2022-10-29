@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 🏆 399 Contributions in the Year 2022
  > 
-> 📦 86.9 kB Used in GitHub's Storage 
+> 📦 86.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -77,8 +77,8 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
 🌆 Daytime    278 commits    ███████░░░░░░░░░░░░░░░░░░   31.31% 
-🌃 Evening    342 commits    █████████░░░░░░░░░░░░░░░░   38.51% 
-🌙 Night      226 commits    ██████░░░░░░░░░░░░░░░░░░░   25.45%
+🌃 Evening    343 commits    █████████░░░░░░░░░░░░░░░░   38.63% 
+🌙 Night      225 commits    ██████░░░░░░░░░░░░░░░░░░░   25.34%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -133,7 +133,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2022 14:15:24 UTC
+ Last Updated on 29/10/2022 14:58:28 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
