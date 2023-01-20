@@ -56,13 +56,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 475 Contributions in the Year 2023
+> 🏆 476 Contributions in the Year 2023
  > 
 > 📦 90.4 kB Used in GitHub's Storage 
  > 
@@ -77,8 +77,8 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning    65 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
 🌆 Daytime    334 commits    ███████░░░░░░░░░░░░░░░░░░   30.53% 
-🌃 Evening    414 commits    █████████░░░░░░░░░░░░░░░░   37.84% 
-🌙 Night      281 commits    ██████░░░░░░░░░░░░░░░░░░░   25.69%
+🌃 Evening    415 commits    █████████░░░░░░░░░░░░░░░░   37.93% 
+🌙 Night      280 commits    ██████░░░░░░░░░░░░░░░░░░░   25.59%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -87,8 +87,8 @@ Just don't be a creep, thanks ● ﹏ ●
 Monday       118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
 Tuesday      148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
 Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
-Thursday     208 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-Friday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Thursday     207 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Friday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
 Saturday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
 Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
 
@@ -134,7 +134,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 17:02:40 UTC
+ Last Updated on 20/01/2023 17:36:08 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
