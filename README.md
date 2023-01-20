@@ -56,15 +56,15 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 473 Contributions in the Year 2023
+> 🏆 474 Contributions in the Year 2023
  > 
-> 📦 90.3 kB Used in GitHub's Storage 
+> 📦 90.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -77,8 +77,8 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning    65 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
 🌆 Daytime    334 commits    ███████░░░░░░░░░░░░░░░░░░   30.53% 
-🌃 Evening    412 commits    █████████░░░░░░░░░░░░░░░░   37.66% 
-🌙 Night      283 commits    ██████░░░░░░░░░░░░░░░░░░░   25.87%
+🌃 Evening    413 commits    █████████░░░░░░░░░░░░░░░░   37.75% 
+🌙 Night      282 commits    ██████░░░░░░░░░░░░░░░░░░░   25.78%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -87,8 +87,8 @@ Just don't be a creep, thanks ● ﹏ ●
 Monday       118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
 Tuesday      148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
 Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
-Thursday     210 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Friday       177 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+Thursday     209 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Friday       178 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
 Saturday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
 Sunday       146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
 
@@ -134,7 +134,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 15:48:17 UTC
+ Last Updated on 20/01/2023 16:48:05 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
