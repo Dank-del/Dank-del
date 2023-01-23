@@ -56,13 +56,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 637 Contributions in the Year 2023
+> 🏆 638 Contributions in the Year 2023
  > 
 > 📦 90.6 kB Used in GitHub's Storage 
  > 
@@ -84,12 +84,12 @@ Just don't be a creep, thanks ● ﹏ ●
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Monday       166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
 Tuesday      148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
 Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
 Thursday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Saturday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Saturday     164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
 Sunday       203 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.42%
 
 ```
@@ -134,7 +134,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 16:44:36 UTC
+ Last Updated on 23/01/2023 16:57:39 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
