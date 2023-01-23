@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -85,12 +85,12 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 Monday       169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
-Tuesday      150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Tuesday      151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
 Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
 Thursday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
 Saturday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Sunday       200 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.15%
+Sunday       199 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06%
 
 ```
 
@@ -134,7 +134,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 19:45:25 UTC
+ Last Updated on 23/01/2023 19:53:06 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
