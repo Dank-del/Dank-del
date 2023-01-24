@@ -56,13 +56,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 686 Contributions in the Year 2023
+> 🏆 689 Contributions in the Year 2023
  > 
 > 📦 90.8 kB Used in GitHub's Storage 
  > 
@@ -77,20 +77,20 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning    61 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
 🌆 Daytime    333 commits    ███████░░░░░░░░░░░░░░░░░░   30.14% 
-🌃 Evening    424 commits    █████████░░░░░░░░░░░░░░░░   38.37% 
-🌙 Night      287 commits    ██████░░░░░░░░░░░░░░░░░░░   25.97%
+🌃 Evening    423 commits    █████████░░░░░░░░░░░░░░░░   38.28% 
+🌙 Night      288 commits    ██████░░░░░░░░░░░░░░░░░░░   26.06%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-Tuesday      196 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Wednesday    136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
+Tuesday      197 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
+Wednesday    137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
 Thursday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
 Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
 Saturday     162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Sunday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.21%
+Sunday       155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03%
 
 ```
 
@@ -134,7 +134,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 18:00:18 UTC
+ Last Updated on 24/01/2023 18:53:35 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
