@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -101,13 +101,13 @@ Sunday         157 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       39 mins             █████████████████████████   100.00 % 
+C                        10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -128,7 +128,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2023 18:42:44 UTC
+ Last Updated on 13/02/2023 18:55:10 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
