@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -101,13 +101,17 @@ Sunday         157 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        10 mins             █████████████████████████   100.00 % 
+Python                   1 hr 32 mins        █████████████████████░░░░   87.15 % 
+C                        10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 
 ```
 
@@ -128,7 +132,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2023 18:37:19 UTC
+ Last Updated on 15/02/2023 19:01:41 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
