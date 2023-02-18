@@ -133,7 +133,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2023 05:01:16 UTC
+ Last Updated on 18/02/2023 05:17:01 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
