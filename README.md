@@ -62,15 +62,15 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 🏆 708 Contributions in the Year 2023
+> 🏆 707 Contributions in the Year 2023
  > 
-> 📦 93.2 kB Used in GitHub's Storage 
+> 📦 93.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
-> 🔑 43 Private Repositories  
+> 🔑 42 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -122,7 +122,7 @@ Windows                  4 hrs 19 mins       ████████░░░�
 Go                       28 repos            ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 Python                   15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 JavaScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 ```
@@ -133,7 +133,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Dank-del/Dank-del/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 18:00:27 UTC
+ Last Updated on 19/02/2023 18:19:47 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
