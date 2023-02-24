@@ -130,7 +130,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2023 16:30:51 UTC
+ Last Updated on 24/02/2023 16:49:33 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
