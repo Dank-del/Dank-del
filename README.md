@@ -64,7 +64,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 94.1 kB Used in GitHub's Storage 
  > 
-> 🏆 751 Contributions in the Year 2023
+> 🏆 749 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -130,7 +130,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2023 06:21:12 UTC
+ Last Updated on 05/03/2023 06:35:57 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
