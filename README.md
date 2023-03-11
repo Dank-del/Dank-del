@@ -58,7 +58,7 @@ Just don't be a creep, thanks ● ﹏ ●
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -131,7 +131,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2023 15:46:17 UTC
+ Last Updated on 11/03/2023 15:53:26 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
