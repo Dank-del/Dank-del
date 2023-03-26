@@ -56,15 +56,15 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 95.6 kB Used in GitHub's Storage 
+> 📦 95.7 kB Used in GitHub's Storage 
  > 
-> 🏆 870 Contributions in the Year 2023
+> 🏆 872 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -99,16 +99,18 @@ Sunday                   1259 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               59 mins             ███████████████████░░░░░░   75.35 % 
-HTML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript               1 hr                ██████████░░░░░░░░░░░░░░░   39.73 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 16 mins       ██████████████████████░░░   89.30 % 
+Linux                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +130,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2023 18:38:24 UTC
+ Last Updated on 26/03/2023 18:46:06 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
