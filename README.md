@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 96.5 kB Used in GitHub's Storage 
  > 
-> 🏆 907 Contributions in the Year 2023
+> 🏆 910 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -76,8 +76,8 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 🌞 Morning                643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-🌆 Daytime                2663 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌃 Evening                2921 commits        ██████████░░░░░░░░░░░░░░░   38.02 % 
+🌆 Daytime                2665 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌃 Evening                2921 commits        ██████████░░░░░░░░░░░░░░░   38.01 % 
 🌙 Night                  1456 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -87,9 +87,9 @@ Monday                   1061 commits        ███░░░░░░░░�
 Tuesday                  952 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 Wednesday                998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 Thursday                 1049 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Friday                   1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Sunday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Friday                   1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Saturday                 1213 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Sunday                   1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 ```
 
 
@@ -129,7 +129,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 10:30:43 UTC
+ Last Updated on 09/04/2023 10:38:47 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
