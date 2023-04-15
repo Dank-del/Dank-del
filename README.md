@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 97.6 kB Used in GitHub's Storage 
  > 
-> 🏆 922 Contributions in the Year 2023
+> 🏆 923 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -76,8 +76,8 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 🌞 Morning                643 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-🌆 Daytime                2668 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                2936 commits        ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌆 Daytime                2668 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌃 Evening                2937 commits        ██████████░░░░░░░░░░░░░░░   38.12 % 
 🌙 Night                  1456 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -88,8 +88,8 @@ Tuesday                  952 commits         ███░░░░░░░░�
 Wednesday                1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Thursday                 1050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 Friday                   1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Sunday                   1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday                   1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 ```
 
 
@@ -130,7 +130,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2023 17:29:13 UTC
+ Last Updated on 15/04/2023 17:37:11 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
