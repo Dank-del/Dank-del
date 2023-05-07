@@ -99,17 +99,13 @@ Sunday                   1258 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      27 mins             ████████████████░░░░░░░░░   63.59 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Blade Template           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +125,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2023 18:37:33 UTC
+ Last Updated on 07/05/2023 18:44:34 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
