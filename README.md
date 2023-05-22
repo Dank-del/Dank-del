@@ -125,7 +125,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 11:58:25 UTC
+ Last Updated on 22/05/2023 12:15:03 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
