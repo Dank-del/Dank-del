@@ -62,7 +62,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 📦 101.8 kB Used in GitHub's Storage 
+> 📦 101.9 kB Used in GitHub's Storage 
  > 
 > 🏆 996 Contributions in the Year 2023
  > 
@@ -126,7 +126,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2023 06:16:56 UTC
+ Last Updated on 05/06/2023 06:33:00 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
