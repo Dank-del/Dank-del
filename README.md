@@ -99,14 +99,13 @@ Sunday                   1242 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               46 mins             ███████████████████░░░░░░   75.00 % 
-JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +125,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2023 18:30:43 UTC
+ Last Updated on 06/06/2023 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
