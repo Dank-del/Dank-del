@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -99,15 +99,18 @@ Sunday                   1242 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Blade Template           13 mins             ██████████████████░░░░░░░   73.93 % 
-PHP                      4 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               39 mins             █████████████████░░░░░░░░   67.96 % 
+Blade Template           13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+PHP                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-PhpStorm                 17 mins             █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████░░░░░░░░   69.63 % 
+PhpStorm                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +130,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 18:31:46 UTC
+ Last Updated on 14/06/2023 18:40:07 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
