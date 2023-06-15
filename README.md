@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 102.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,002 Contributions in the Year 2023
+> 🏆 1,005 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -77,17 +77,17 @@ Just don't be a creep, thanks ● ﹏ ●
 ```text
 🌞 Morning                659 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 🌆 Daytime                2682 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌃 Evening                2938 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
-🌙 Night                  1486 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌃 Evening                2938 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌙 Night                  1487 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   1031 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Tuesday                  909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Tuesday                  909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 Wednesday                1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   1191 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Thursday                 1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Friday                   1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Saturday                 1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 Sunday                   1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 ```
@@ -130,7 +130,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2023 18:48:33 UTC
+ Last Updated on 15/06/2023 18:56:06 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
