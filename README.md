@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -64,11 +64,11 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 102.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,002 Contributions in the Year 2023
+> 🏆 1,004 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
@@ -99,18 +99,18 @@ Sunday                   1242 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               39 mins             █████████████████░░░░░░░░   67.96 % 
-Blade Template           13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-PHP                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               1 hr 45 mins        ████████████████████░░░░░   81.47 % 
+Blade Template           13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Astro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████░░░░░░░░   69.63 % 
-PhpStorm                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
+VS Code                  1 hr 51 mins        ██████████████████████░░░   86.22 % 
+PhpStorm                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2023 18:32:07 UTC
+ Last Updated on 15/06/2023 18:40:22 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
