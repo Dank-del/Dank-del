@@ -68,9 +68,9 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 58 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -130,7 +130,7 @@ Dart                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2023 15:54:26 UTC
+ Last Updated on 15/06/2023 16:02:31 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
