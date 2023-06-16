@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
@@ -99,18 +99,18 @@ Sunday                   1242 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ████████████████████░░░░░   81.47 % 
-Blade Template           13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Astro                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+Python                   1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Blade Template           41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        ██████████████████████░░░   86.22 % 
-PhpStorm                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+VS Code                  6 hrs 3 mins        ████████████████████████░   95.33 % 
+PhpStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2023 18:30:18 UTC
+ Last Updated on 16/06/2023 18:38:21 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
