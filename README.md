@@ -140,3 +140,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 Um sure.
 
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)-->
+
+<a href="https://cloud.appwrite.io/card/64773257171d49803c27">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64773257171d49803c27" alt="Appwrite Cloud Card" />
+</a>
