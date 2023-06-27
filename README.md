@@ -62,7 +62,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 📦 104.4 kB Used in GitHub's Storage 
+> 📦 104.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,012 Contributions in the Year 2023
  > 
@@ -131,7 +131,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 22:55:43 UTC
+ Last Updated on 27/06/2023 23:03:35 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
