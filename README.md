@@ -64,13 +64,13 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 105.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,030 Contributions in the Year 2023
+> 🏆 1,031 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -116,10 +116,10 @@ Mac                      25 mins             ██░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   57 repos            ████████░░░░░░░░░░░░░░░░░   32.02 % 
-TypeScript               30 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   57 repos            ████████░░░░░░░░░░░░░░░░░   31.84 % 
+TypeScript               31 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
@@ -130,7 +130,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2023 08:04:19 UTC
+ Last Updated on 07/07/2023 08:28:45 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
