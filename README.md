@@ -56,13 +56,13 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 254.5 kB Used in GitHub's Storage 
+> 📦 105.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,036 Contributions in the Year 2023
  > 
@@ -70,7 +70,7 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 📜 65 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -118,10 +118,10 @@ Mac                      4 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   57 repos            ████████░░░░░░░░░░░░░░░░░   31.84 % 
-TypeScript               31 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   57 repos            ████████░░░░░░░░░░░░░░░░░   32.02 % 
+TypeScript               30 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
@@ -132,7 +132,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2023 08:04:18 UTC
+ Last Updated on 10/07/2023 08:29:59 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
