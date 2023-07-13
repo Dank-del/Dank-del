@@ -68,9 +68,9 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 63 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 45 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -132,7 +132,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2023 20:23:44 UTC
+ Last Updated on 13/07/2023 20:33:21 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
