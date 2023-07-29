@@ -99,17 +99,13 @@ Sunday                   1178 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               21 mins             ████████████████████████░   95.74 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +125,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2023 18:36:20 UTC
+ Last Updated on 29/07/2023 18:44:52 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
