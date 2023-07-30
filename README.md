@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -64,11 +64,11 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 106.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,050 Contributions in the Year 2023
+> 🏆 1,051 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 65 Public Repositories 
  > 
 > 🔑 45 Private Repositories 
  > 
@@ -99,13 +99,17 @@ Sunday                   1179 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 20 mins        ████████████████████████░   95.16 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 18:36:50 UTC
+ Last Updated on 30/07/2023 18:45:41 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
