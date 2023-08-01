@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -99,17 +99,17 @@ Sunday                   1179 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ███████████████░░░░░░░░░░   61.20 % 
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               2 hrs 6 mins        ██████████████░░░░░░░░░░░   57.90 % 
+JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2023 18:31:58 UTC
+ Last Updated on 01/08/2023 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
