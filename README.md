@@ -56,7 +56,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -99,13 +99,17 @@ Sunday                   1180 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+Go                       1 hr 7 mins         ████████████████████████░   95.46 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2023 18:31:06 UTC
+ Last Updated on 11/08/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
