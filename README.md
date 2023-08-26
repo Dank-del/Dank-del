@@ -1,6 +1,7 @@
-![image](https://user-images.githubusercontent.com/63096193/125182844-29f20800-e22f-11eb-8dc9-b0f2d29647bb.png)
+![image](https://github.com/Dank-del/Dank-del/assets/63096193/045e227e-4ef3-4c82-82b9-d22540fc40f7)
 
-# **Hi there, I'm Dank-del (*´ー｀*), and this is my profile readme.**
+
+# **Hi there, I'm Sayan, and this is my profile readme.**
 <!--  [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del) -->
 # Some FAQs
 
