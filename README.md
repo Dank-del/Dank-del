@@ -100,17 +100,13 @@ Sunday                   1186 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Assembly                 17 mins             █████████████████░░░░░░░░   66.69 % 
-Markdown                 7 mins              ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Ezhil                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +126,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2023 18:31:54 UTC
+ Last Updated on 02/09/2023 18:39:45 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
