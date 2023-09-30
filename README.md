@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
@@ -117,9 +117,9 @@ Windows                  2 hrs 23 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               36 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               37 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
@@ -131,7 +131,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2023 07:32:34 UTC
+ Last Updated on 30/09/2023 07:41:05 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
