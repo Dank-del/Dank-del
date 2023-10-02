@@ -69,9 +69,9 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 72 Public Repositories 
  > 
-> 🔑 49 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -131,7 +131,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 17:16:36 UTC
+ Last Updated on 02/10/2023 17:30:13 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
