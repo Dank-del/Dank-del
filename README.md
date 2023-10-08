@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
@@ -65,7 +65,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 176.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,100 Contributions in the Year 2023
+> 🏆 1,101 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -131,7 +131,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2023 05:31:54 UTC
+ Last Updated on 08/10/2023 05:39:51 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
