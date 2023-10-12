@@ -133,7 +133,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 17:40:11 UTC
+ Last Updated on 12/10/2023 17:47:09 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
