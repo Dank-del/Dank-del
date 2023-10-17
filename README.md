@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
@@ -77,7 +77,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 🌞 Morning                618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-🌆 Daytime                2559 commits        █████████░░░░░░░░░░░░░░░░   34.34 % 
+🌆 Daytime                2560 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
 🌃 Evening                2778 commits        █████████░░░░░░░░░░░░░░░░   37.28 % 
 🌙 Night                  1496 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 ```
@@ -85,7 +85,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 ```text
 Monday                   1021 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  871 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 Wednesday                1039 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 Thursday                 989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 Friday                   1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2023 07:49:44 UTC
+ Last Updated on 17/10/2023 07:57:29 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
