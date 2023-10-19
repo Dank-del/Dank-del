@@ -63,7 +63,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 **🐱 My GitHub Data** 
 
-> 📦 177.0 kB Used in GitHub's Storage 
+> 📦 177.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,118 Contributions in the Year 2023
  > 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 14:13:07 UTC
+ Last Updated on 19/10/2023 14:29:41 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
