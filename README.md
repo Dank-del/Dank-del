@@ -65,7 +65,7 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 177.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,127 Contributions in the Year 2023
+> 🏆 1,128 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -118,9 +118,9 @@ Windows                  2 hrs 30 mins       ███░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               42 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Go                       32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+TypeScript               42 repos            █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Go                       32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+JavaScript               26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2023 17:35:38 UTC
+ Last Updated on 23/10/2023 17:49:29 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
