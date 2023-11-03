@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C298%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ Just don't be a creep, thanks ● ﹏ ●
  > 
 > 💼 Opted to Hire
  > 
-> 📜 76 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 49 Private Repositories 
  > 
@@ -100,20 +100,18 @@ Sunday                   1241 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 hrs 50 mins      █████████████████████░░░░   83.51 % 
+TypeScript               16 hrs 52 mins      ████████████████████░░░░░   78.95 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 Python                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 38 mins      ████████████████████████░   96.66 % 
-WebStorm                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+VS Code                  21 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 46 mins      ████████████████░░░░░░░░░   64.50 % 
-Windows                  6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Linux                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Mac                      15 hrs 40 mins      ██████████████████░░░░░░░   73.32 % 
+Windows                  5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +131,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2023 12:39:32 UTC
+ Last Updated on 03/11/2023 12:38:11 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
