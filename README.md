@@ -57,7 +57,7 @@ Just don't be a creep, thanks ● ﹏ ●
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -65,11 +65,11 @@ Just don't be a creep, thanks ● ﹏ ●
 
 > 📦 177.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,160 Contributions in the Year 2023
+> 🏆 1,162 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 76 Public Repositories 
  > 
 > 🔑 49 Private Repositories 
  > 
@@ -118,9 +118,9 @@ Windows                  7 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               42 repos            █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Go                       32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JavaScript               26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+TypeScript               42 repos            █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Go                       32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+JavaScript               26 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2023 12:40:35 UTC
+ Last Updated on 16/11/2023 01:16:09 UTC
 <!--END_SECTION:waka-->
 
 <!--## **Can I stalk your spotify?**
