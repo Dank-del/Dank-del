@@ -14,7 +14,7 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 - Email: [me@sayanbiswas.in](mailto:me@sayanbiswas.in)
 - [Twitter](https://twitter.com/TheDankDel)
 - [Reddit](https://www.reddit.com/user/dank_as_fuck_/)
-- Discord: [dank_as_fuck](https://discordapp.com/users/506536929152466945)
+- [Discord](https://discordapp.com/users/506536929152466945)
 
 ## Coding Stats 📊
 
