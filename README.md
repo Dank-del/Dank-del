@@ -21,13 +21,15 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 I love writing code, and here's a quick overview:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 203.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 540 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -38,20 +40,20 @@ I love writing code, and here's a quick overview:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                848 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 Daytime                2382 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                2683 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌞 Morning                849 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+🌆 Daytime                2383 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌃 Evening                2683 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
 🌙 Night                  1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Monday                   988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                1013 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 Friday                   1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Saturday                 1083 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Saturday                 1085 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 Sunday                   928 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
 
@@ -96,7 +98,7 @@ C++                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2024 01:16:08 UTC
+ Last Updated on 27/04/2024 12:38:19 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect and explore exciting opportunities together! 🚀
