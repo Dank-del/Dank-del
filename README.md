@@ -21,15 +21,13 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 I love writing code, and here's a quick overview:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 204.4 kB Used in GitHub's Storage 
- > 
-> 🏆 696 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -40,7 +38,7 @@ I love writing code, and here's a quick overview:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌞 Morning                908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 🌆 Daytime                2395 commits        ████████░░░░░░░░░░░░░░░░░   32.72 % 
 🌃 Evening                2750 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
 🌙 Night                  1267 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
@@ -53,8 +51,8 @@ Tuesday                  969 commits         ███░░░░░░░░�
 Wednesday                1027 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Thursday                 1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Friday                   1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Saturday                 1102 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Sunday                   949 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 1103 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Sunday                   949 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -104,7 +102,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2024 01:22:28 UTC
+ Last Updated on 29/06/2024 12:42:34 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect and explore exciting opportunities together! 🚀
