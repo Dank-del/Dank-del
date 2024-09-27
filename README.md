@@ -21,13 +21,15 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 I love writing code, and here's a quick overview:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%208%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 208.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,391 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +40,21 @@ I love writing code, and here's a quick overview:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-🌆 Daytime                3063 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌃 Evening                3444 commits        █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌙 Night                  1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌞 Morning                1091 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                3075 commits        ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌃 Evening                3446 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
+🌙 Night                  1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1282 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Tuesday                  1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Wednesday                1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Thursday                 1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   1484 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Saturday                 1296 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Sunday                   1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Monday                   1288 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Wednesday                1258 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   1492 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Saturday                 1296 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -101,7 +103,7 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 01:40:40 UTC
+ Last Updated on 27/09/2024 12:59:56 UTC
 <!--END_SECTION:waka-->
 
 ### Let's connect and explore exciting opportunities together! 🚀
