@@ -1,24 +1,8 @@
-# Hi, I'm Sayan 👋
-
-Welcome to my GitHub profile! I'm Sayan Biswas, a 21-year-old with a passion for computers and art, currently based in Kolkata, India.
-
-## What I'm up to 🚀
+Welcome to my GitHub profile! I'm Sayan, a 22-year-old with a passion for computers and art, currently based in Kolkata, India.
 
 I'm actively exploring and learning various programming languages, including Python, C#, and Go. Check out my pinned repositories to get a glimpse of my current projects. I enjoy creating software for fun challenges and to contribute value to others.
 
-## How to connect 📬
-
-Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. Here are some ways to reach me:
-
-- [Telegram](https://t.me/dank_as_fuck)
-- Email: [me@sayanbiswas.in](mailto:me@sayanbiswas.in)
-- [Twitter](https://twitter.com/TheDankDel)
-- [Reddit](https://www.reddit.com/user/dank_as_fuck_/)
-- [Discord](https://discordapp.com/users/506536929152466945)
-
-## Coding Stats 📊
-
-I love writing code, and here's a quick overview:
+Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C006%20hrs%2055%20mins-blue)
@@ -43,5 +27,3 @@ YAML                     20 mins             █░░░░░░░░░░�
 
  Last Updated on 22/12/2024 06:47:27 UTC
 <!--END_SECTION:waka-->
-
-### Let's connect and explore exciting opportunities together! 🚀
