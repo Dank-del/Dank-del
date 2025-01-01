@@ -13,9 +13,8 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ████████████████████████░   95.31 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   39 mins             █████████████████████████   98.64 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 **Timeline**
@@ -23,5 +22,5 @@ JSON                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 12:41:03 UTC
+ Last Updated on 01/01/2025 01:31:55 UTC
 <!--END_SECTION:waka-->
