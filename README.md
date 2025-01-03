@@ -5,7 +5,7 @@ I'm actively exploring and learning various programming languages, including Pyt
 Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C008%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C008%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
 
@@ -13,8 +13,11 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ```text
 💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   98.64 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   56 mins             ███████████████████████░░   93.06 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **Timeline**
@@ -22,5 +25,5 @@ Bash                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 12:43:30 UTC
+ Last Updated on 03/01/2025 01:26:50 UTC
 <!--END_SECTION:waka-->
