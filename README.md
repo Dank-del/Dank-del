@@ -5,7 +5,7 @@ I'm actively exploring and learning various programming languages, including Pyt
 Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -13,11 +13,11 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 16 mins      ██████████████████████░░░   88.50 % 
-GitIgnore file           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-textmate                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Env File                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Batchfile                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   15 hrs 58 mins      ███████████████████████░░   90.61 % 
+GitIgnore file           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Requirements.txt         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Env File                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Batchfile                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 **Timeline**
@@ -25,5 +25,5 @@ Batchfile                13 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 12:42:28 UTC
+ Last Updated on 07/02/2025 01:25:44 UTC
 <!--END_SECTION:waka-->
