@@ -5,7 +5,7 @@ I'm actively exploring and learning various programming languages, including Pyt
 Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C228%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
@@ -13,11 +13,11 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 6 mins        █████████████████████░░░░   83.99 % 
-Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Nginx configuration file 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   7 hrs 25 mins       ███████████████████████░░   93.69 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Nginx configuration file 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **Timeline**
@@ -25,5 +25,5 @@ Nginx configuration file 10 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 12:49:29 UTC
+ Last Updated on 08/05/2025 01:45:44 UTC
 <!--END_SECTION:waka-->
