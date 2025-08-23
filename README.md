@@ -7,15 +7,17 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        █████████████████░░░░░░░░   69.63 % 
-TypeScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Python                   4 hrs 10 mins       ███████████████████░░░░░░   77.65 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 **Timeline**
@@ -23,5 +25,5 @@ JSON                     15 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2025 12:52:08 UTC
+ Last Updated on 23/08/2025 01:37:57 UTC
 <!--END_SECTION:waka-->
