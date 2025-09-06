@@ -7,17 +7,17 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C339%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 15 mins       ████████████████████████░   97.84 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   5 hrs 30 mins       ████████████████████████░   97.56 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **Timeline**
@@ -25,5 +25,5 @@ Other                    0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 12:51:47 UTC
+ Last Updated on 06/09/2025 01:34:30 UTC
 <!--END_SECTION:waka-->
