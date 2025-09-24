@@ -5,7 +5,7 @@ I'm actively exploring and learning various programming languages, including Pyt
 Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C347%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.2%20million%20lines%20of%20code-blue)
 
@@ -13,11 +13,11 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 57 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
-TypeScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Python                   2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
+TypeScript               1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+HTML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+C                        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 **Timeline**
@@ -25,5 +25,5 @@ Markdown                 7 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 01:37:49 UTC
+ Last Updated on 24/09/2025 12:51:44 UTC
 <!--END_SECTION:waka-->
