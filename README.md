@@ -9,10 +9,21 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
+TypeScript               2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+HTML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+C                        52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 12:56:42 UTC
+ Last Updated on 01/10/2025 01:54:46 UTC
 <!--END_SECTION:waka-->
