@@ -5,7 +5,7 @@ I'm actively exploring and learning various programming languages, including Pyt
 Feel free to reach out! I might be a bit slow to respond, but I'm always open to connecting with like-minded individuals. You can reach out to me via [email](mailto:me@sayanbiswas.in) or [twitter dm](https://twitter.com/TheDankDel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C382%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20million%20lines%20of%20code-blue)
 
@@ -25,5 +25,5 @@ Makefile                 25 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 01:38:01 UTC
+ Last Updated on 12/10/2025 12:46:13 UTC
 <!--END_SECTION:waka-->
