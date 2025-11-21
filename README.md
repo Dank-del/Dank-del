@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm Sayan, a 22-year-old with a passion for computers and art, currently based in Kolkata, India.
+Hello, I'm Sayan, a 23-year-old with a passion for computers and art, currently based in Kolkata, India.
 
 I'm actively exploring and learning various programming languages, including Python, C#, and Go. Check out my pinned repositories to get a glimpse of my current projects. I enjoy creating software for fun challenges and to contribute value to others.
 
