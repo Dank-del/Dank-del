@@ -8,18 +8,3 @@ Feel free to reach out! I might be a bit slow to respond, but I'm always open to
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C392%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.1%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Dank-del/Dank-del/main/assets/bar_graph.png)
-
-
- Last Updated on 21/11/2025 12:52:42 UTC
-<!--END_SECTION:waka-->
