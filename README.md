@@ -1,6 +1,6 @@
 # Sayan Biswas
 
-Founding engineer at [Youe](https://youe.co), where I build LLM and agent backends in Python and the React 19 interfaces in front of them. Most of my work is production AI infrastructure — streaming pipelines, agent orchestration, observability, and the distributed-systems plumbing that keeps it reliable.
+Founding engineer at [Youe](https://youe.co), working on LLM and agent platforms across the stack — from Python backend services to the product interfaces they power. Most of my work is production AI infrastructure — streaming pipelines, agent orchestration, observability, and the distributed-systems plumbing that keeps it reliable.
 
 What I'm working on:
 
